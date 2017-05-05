@@ -3,5 +3,8 @@ The repository was created for recruitment purposes. This little application was
 ## Description
 The purpose of this application is to scrape data from web application providing the [map of Gdańsk](http://mapa.gdansk.gda.pl/ipg/app/index). In Client.py file user specify in which types of locations is interested in. After that, the application is scraping the data, doing necessary transformations and saves it to the csv file.
 
+## Results
+![Screenshot](https://cloud.githubusercontent.com/assets/24795433/25765413/408ae7fe-31ed-11e7-97e8-069cbc6d5be0.jpg)
+
 ## Author
 Mateusz Krogul
